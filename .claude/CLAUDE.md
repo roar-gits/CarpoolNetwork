@@ -7,7 +7,6 @@ services:
     team: ""
   supabase:
     project_ref: ""
-status: planned
 ---
 
 # Project Configuration - CarpoolNetwork
