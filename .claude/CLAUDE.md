@@ -11,8 +11,7 @@ services:
 
 # Project Configuration - CarpoolNetwork
 
-**Inherits**: Global SuperClaude Framework (`~/.claude/CLAUDE.md`)
-**Framework Docs**: `~/.claude/docs/` (on-demand loading)
+**Inherits**: Global `~/.claude/CLAUDE.md`
 
 ---
 
@@ -171,10 +170,9 @@ Load docs on-demand from `~/.claude/docs/` when needed:
 
 | Need | Read |
 |------|------|
-| UI work | `~/.claude/docs/mcp/MCP_Magic.md` |
-| Complex analysis | `~/.claude/docs/mcp/MCP_Sequential.md` |
-| Research | `~/.claude/docs/mcp/MCP_Tavily.md` |
-| Code editing | `~/.claude/docs/mcp/MCP_Serena.md` |
+| Credential setup | `~/.claude/docs/guides/credential-security.md` |
+| Web stack guide | `~/.claude/docs/guides/web-stack-guide.md` |
+| Git workflow | `~/.claude/docs/guides/git-workflow.md` |
 
 ---
 
