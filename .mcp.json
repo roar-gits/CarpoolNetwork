@@ -7,14 +7,5 @@
         "GITHUB_PERSONAL_ACCESS_TOKEN": "${HOBBY_GITHUB_TOKEN}"
       }
     }
-,
-    "supabase": {
-      "command": "npx",
-      "args": ["-y", "@supabase/mcp-server-supabase", "--project-ref=YOUR_PROJECT_REF"],
-      "env": {
-        "SUPABASE_ACCESS_TOKEN": "${CARPOOLNETWORK_SUPABASE_ACCESS_TOKEN}"
-      }
-    }
-
   }
 }
